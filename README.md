@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sarkis Karabet. 👋
 
 Welcome to my GitHub profile! I'm a passionate learner and developer, currently exploring new technologies and working on exciting projects. My journey is all about growth, creativity, and solving interesting problems.
 
